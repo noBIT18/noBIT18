@@ -6,6 +6,7 @@
 <h3 align="left">I can fluently speak German, Polish and English</h3>
 <h3 align="left">Generally a boring person living a boring lifestyle</h3>
 <h3 align="left">Big into Minecraft Development</h3>
+<h3 align="left">You can contact me on my and a friends Discord server <a href="https://discord.gg/P64rxKPh3R" target="_blank">Discord</a></h3>
 <p><h2> ILOVEMYGIRLFRIEND </h2></p>
 
 <h3 align="left">Languages and Tools:</h3>
