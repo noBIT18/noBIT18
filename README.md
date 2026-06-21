@@ -3,7 +3,7 @@
 I am noBIT. I am a developer focused on game and web development. Currently, I am collaborating with a team on an advanced space shooter project. My interests include software engineering and cooking. I enjoy the process of building projects I am passionate about from the ground up.
 
 ## Contact
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piontkowskicosiek@gmail.com)
+email: nobit@sallylabs.net
 
 ## Tech Stack
 
